@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include "isodd.h"
 
 bool IsOdd(int n) {
